@@ -30,7 +30,7 @@ int main() {
         printf("Option: ");
         scanf("%d", &option);
         
-        switch(option) {   // ✅ fixed: was "pilihan"
+        switch(option) {  
             case 1: addition(); break;
             case 2: subtraction(); break;
             case 3: multiplication(); break;
