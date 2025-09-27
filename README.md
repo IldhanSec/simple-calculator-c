@@ -30,7 +30,7 @@ cd simple-calculator
 Using **GCC** (Linux/macOS/Windows with MinGW):
 
 ```bash
-gcc calculator.c -o calculator -lm
+gcc calcu.c -o calcu -lm
 ```
 
 > `-lm` is required to link the math library.
@@ -38,7 +38,7 @@ gcc calculator.c -o calculator -lm
 ### 3. Run the program
 
 ```bash
-./calculator
+./calcu
 ```
 
 ## 📌Noted
