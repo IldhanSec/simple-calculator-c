@@ -93,3 +93,6 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 ⚡ **Lightweight. Easy. Fast.** Run calculations directly in your terminal.
 
 ---
+
+![GitHub Stars](https://img.shields.io/github/stars/Ildhaaannnnnnn/simple-calculator-c?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/Ildhaaannnnnnn/simple-calculator-c?style=social)
