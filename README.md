@@ -21,7 +21,7 @@ Designed with simplicity in mind, it runs directly in the **command-line interfa
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Ildhaaannnnnnn/simple-calculator.git
+git clone https://github.com/IldhanSec/simple-calculator-c.git
 cd simple-calculator
 ```
 
